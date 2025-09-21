@@ -136,16 +136,12 @@ p {
     flex-basis: 50%;
   }
 
+  .product__image {
+    border-radius: 0.5rem 0 0 0.5rem;
+  }
+
   .product__content {
     border-radius: 0 0.5rem 0.5rem 0;
     flex-basis: 50%;
-  }
-
-  .product__content {
-    background-color: var(--clr-White);
-  }
-
-  .product__image {
-    border-radius: 0.5rem 0 0 0.5rem;
   }
 }
