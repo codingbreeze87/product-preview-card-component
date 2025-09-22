@@ -81,6 +81,10 @@ p {
   font-family: var(--ff-title);
 }
 
+.product__subs {
+  margin-block-start: 1.625rem;
+}
+
 .product__price {
   display: flex;
   align-items: center;
